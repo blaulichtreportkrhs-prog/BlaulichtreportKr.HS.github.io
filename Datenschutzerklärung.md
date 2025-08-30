@@ -1,4 +1,5 @@
 Datenschutzerklärung
+
 1. Verantwortlicher
 
 Verantwortlich für die Datenverarbeitung im Zusammenhang mit dieser Facebook-Seite ist:
@@ -13,7 +14,7 @@ Weitere Informationen zur Datenverarbeitung durch Facebook findest du hier:
 
 3. Eigene Datenverarbeitung
 
-Wir selbst erheben und speichern über diese Seite keine zusätzlichen personenbezogenen Daten.
+Ich selbst erheben und speichern über diese Seite keine zusätzlichen personenbezogenen Daten.
 Eine Kontaktaufnahme ist freiwillig über Facebook-Messenger oder E-Mail möglich; dabei übermittelte Daten werden nur zur Beantwortung genutzt.
 
 4. Rechte der Betroffenen
