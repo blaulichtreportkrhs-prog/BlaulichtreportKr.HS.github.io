@@ -20,3 +20,5 @@ Eine Kontaktaufnahme ist freiwillig über Facebook-Messenger oder E-Mail möglic
 4. Rechte der Betroffenen
 
 Du hast das Recht auf Auskunft, Berichtigung, Löschung oder Einschränkung der Verarbeitung deiner Daten sowie ein Beschwerderecht bei der zuständigen Datenschutzbehörde.
+
+2025
